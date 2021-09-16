@@ -18,6 +18,8 @@ Titres : Roboto Condensed Bold
 Paragraphes : Roboto - Regular & Bold
 
 # Maquettes
+:warning: La mise à l'échelle des images est plus propre avec Firefox. Avec un navigateur basé sur Chrome / Chromium, il se peut que le texte dans la maquette desktop soit flou, et qu'un scroll horizontal apparaisse.
+
 
 ## Desktop
 [Maquette desktop inVision](https://invis.io/PU11PNPNYSGE)
