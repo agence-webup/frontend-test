@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-847.000000, -903.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Section-1" transform="translate(0.000000, 170.000000)">
+                <g id="Bouton" transform="translate(806.000000, 710.000000)">
+                    <g id="Group" transform="translate(41.000000, 23.000000)">
+                        <path d="M0,1.45920931 L0,16.54141 C0,17.6903775 1.28877928,18.3864566 2.27422935,17.7704703 L14.31418,10.230098 C15.2286067,9.65779865 15.2286067,8.34573311 14.31418,7.77343371 L2.27422935,0.230149027 C1.28877928,-0.387293581 0,0.310241818 0,1.45920931 Z" id="Play"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
